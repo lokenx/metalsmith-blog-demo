@@ -21,6 +21,6 @@ Output is saved into `/dist` folder, and is accessible at `localhost:3000`
 $ npm start
 ```
 
-### License
+## License
 
 MIT
